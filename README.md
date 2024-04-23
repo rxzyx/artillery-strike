@@ -13,7 +13,7 @@
 
 ## Do not take this seriously!
 
-- This might have some errors! It is just a fun program for educational purposes, if you notice an error, please alert me in the issues panel!
+- This might have some errors! The program doesn't even account for every single natural factor. It is just a fun program for educational purposes, if you notice an error, please alert me in the issues panel!
 
 #### I am not responsible for your actions with this program, again - it's for educational purposes ... only.
 
